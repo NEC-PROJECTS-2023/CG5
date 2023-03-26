@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .background-image {
+        background-image: url('./testing-water-quality.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+    }
